@@ -6,8 +6,8 @@ A machine learning-powered web app that predicts whether an employee is likely t
 
 ## 🚀 Live Demo
 
-📍 _Deployment link coming soon_  
-
+📍 Deployment link
+https://employee-leave-predictor.streamlit.app/
 
 ---
 
